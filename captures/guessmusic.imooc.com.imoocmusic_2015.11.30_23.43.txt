@@ -1,0 +1,97 @@
+TASK guessmusic.imooc.com.imoocmusic id=59
+  ACTIVITY guessmusic.imooc.com.imoocmusic/.MainActivity 7bc80ff pid=1608
+    Local FragmentActivity 376be20 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@45ed172
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@45ed172
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{5c19c3 V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{6e29240 V.E..... ... 0,0-1080,1794}
+          android.view.ViewStub{487f579 G.E..... ... 0,0-0,0 #10203a9 android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{f4492be V.E..... ... 0,0-1080,1794}
+            android.support.v7.widget.FitWindowsLinearLayout{1dc8f1f V.E..... ... 0,0-1080,1794 #7f0c0055 app:id/action_bar_root}
+              android.support.v7.widget.ViewStubCompat{f7e926c G.E..... ... 0,0-0,0 #7f0c0056 app:id/action_mode_bar_stub}
+              android.support.v7.widget.ContentFrameLayout{5097035 V.E..... ... 0,0-1080,1794 #1020002 android:id/content}
+                android.support.design.widget.CoordinatorLayout{3331cca V.ED.... ... 0,0-1080,1794}
+                  android.support.design.widget.AppBarLayout{dc4fe3b V.E..... ... 0,63-1080,63}
+                  android.widget.RelativeLayout{ef86958 V.E..... ... 0,63-1080,1794}
+                    android.widget.LinearLayout{1eddab1 V.E..... ... 0,0-1080,1731}
+                      android.widget.RelativeLayout{ce3b96 V.E..... ... 0,0-1080,152}
+                        android.support.v7.widget.AppCompatImageButton{9fb4317 VFED..C. ... 26,13-194,139 #7f0c00a8 app:id/btn_bar_back}
+                        android.widget.FrameLayout{936c304 V.E..... ... 739,27-1054,125 #7f0c00a9 app:id/layout_bar_coin}
+                          android.support.v7.widget.AppCompatImageButton{4d470ed VFED..C. ... 0,0-315,98 #7f0c00aa app:id/btn_bar_add_cion}
+                          android.support.v7.widget.AppCompatImageView{d2a7b22 V.ED.... ... 92,20-169,78 #7f0c00ab app:id/imageView}
+                          android.support.v7.widget.AppCompatTextView{ae6f9b3 V.ED.... ... 192,23-276,74 #7f0c00ac app:id/txt_bar_cions}
+                      android.widget.LinearLayout{7df0b70 V.E..... ... 278,231-801,879 #7f0c00a3 app:id/layout_pan}
+                        android.widget.FrameLayout{8142ee9 V.E..... ... 0,0-523,98}
+                          android.support.v7.widget.AppCompatImageView{819276e V.ED.... ... 0,0-523,98}
+                          android.support.v7.widget.AppCompatTextView{9cd7e0f V.ED.... ... 208,13-314,84 #7f0c00a4 app:id/textView}
+                        android.widget.FrameLayout{7816e9c V.E..... ... 0,98-523,648}
+                          android.support.v7.widget.AppCompatImageView{a77d0a5 V.ED.... ... 0,0-523,550 #7f0c0094 app:id/imageView1}
+                          android.support.v7.widget.AppCompatImageView{b344c7a V.ED.... ... 0,0-523,550}
+                          android.support.v7.widget.AppCompatImageButton{4edec2b VFED..C. ... 125,138-398,411 #7f0c00a5 app:id/btn_play_start}
+                          android.support.v7.widget.AppCompatImageView{b84d888 V.ED.... ... 392,0-523,368 #7f0c00a6 app:id/imageView2}
+                      android.widget.LinearLayout{2b9d221 V.E..... ... 63,932-1017,1731}
+                        android.widget.LinearLayout{daab646 V.E..... ... 0,0-954,140 #7f0c0093 app:id/word_select_container}
+                          android.support.v7.widget.AppCompatButton{55d2007 VFED..C. ... 337,0-477,140 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{4d2f534 VFED..C. ... 477,0-617,140 #7f0c00a7 app:id/item_btn}
+                        android.support.v7.widget.AppCompatImageView{ec06f5d V.ED.... ... 0,166-954,178 #7f0c0094 app:id/imageView1}
+                        guessmusic.imooc.com.imoocmusic.myui.MyGridView{8cbf0d2 VFED.VC. F.. 0,191-954,799 #7f0c0095 app:id/gridview}
+                          android.support.v7.widget.AppCompatButton{6a1b5a3 VFED..C. ... 5,0-118,133 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{74430a0 VFED..C. ... 123,0-236,133 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{a99a459 VFED..C. ... 241,0-354,133 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{954481e VFED..C. ... 359,0-472,133 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{c1008ff VFED..C. ... 477,0-590,133 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{9cbb6cc VFED..C. ... 595,0-708,133 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{b372d15 VFED..C. ... 713,0-826,133 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{978c82a VFED..C. ... 831,0-944,133 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{fe6361b VFED..C. ... 5,138-118,271 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{d6373b8 VFED..C. ... 123,138-236,271 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{8ea8591 VFED..C. ... 241,138-354,271 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{fb33cf6 VFED..C. ... 359,138-472,271 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{82818f7 VFED..C. ... 477,138-590,271 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{6b81364 VFED..C. ... 595,138-708,271 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{5a0e9cd VFED..C. ... 713,138-826,271 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{e4e3282 VFED..C. ... 831,138-944,271 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{d3b4d93 VFED..C. ... 5,276-118,409 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{69501d0 VFED..C. ... 123,276-236,409 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{adf55c9 VFED..C. ... 241,276-354,409 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{fb0f4ce VFED..C. ... 359,276-472,409 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{e432fef VFED..C. ... 477,276-590,409 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{d106afc VFED..C. ... 595,276-708,409 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{b7e8585 VFED..C. ... 713,276-826,409 #7f0c00a7 app:id/item_btn}
+                          android.support.v7.widget.AppCompatButton{b6b8fda VFED..C. ... 831,276-944,409 #7f0c00a7 app:id/item_btn}
+                    android.widget.RelativeLayout{f3cdc0b V.E..... ... 0,0-1080,1731}
+                      android.widget.FrameLayout{3773ae8 V.E..... ... 0,0-1080,189}
+                        android.support.v7.widget.AppCompatImageView{526f501 V.ED.... ... 445,0-634,189 #7f0c0089 app:id/imageView3}
+                        android.support.v7.widget.AppCompatTextView{2cfa6 V.ED.... ... 525,59-555,130 #7f0c008a app:id/text_current_stage}
+                      android.widget.LinearLayout{cdb2de7 V.E..... ... 0,0-1080,1731}
+                        android.widget.FrameLayout{8f91d94 V.E..... ... 0,484-161,699 #7f0c008b app:id/frameLayout1}
+                          android.support.v7.widget.AppCompatImageButton{d8ce03d VFED..C. ... 0,0-161,215 #7f0c008c app:id/btn_delete_word}
+                          android.support.v7.widget.AppCompatImageView{d7c4032 V.ED.... ... 32,155-71,194 #7f0c008d app:id/imageView5}
+                          android.support.v7.widget.AppCompatTextView{222c183 V.ED.... ... 95,155-129,194 #7f0c008e app:id/textView4}
+                        android.widget.FrameLayout{e147f00 V.E..... ... 0,699-161,914 #7f0c008f app:id/frameLaout2}
+                          android.support.v7.widget.AppCompatImageButton{76c4339 VFED..C. ... 0,0-161,215 #7f0c0090 app:id/btn_tip_answer}
+                          android.support.v7.widget.AppCompatImageView{caa2d7e V.ED.... ... 32,155-71,194 #7f0c0091 app:id/imageView4}
+                          android.support.v7.widget.AppCompatTextView{bc5f2df V.ED.... ... 95,155-129,194 #7f0c0092 app:id/textView3}
+                      android.support.v7.widget.AppCompatImageButton{ac28b2c VFED..C. ... 919,473-1080,641 #7f0c007d app:id/btn_share}
+                    android.widget.LinearLayout{b44d9f5 G.E..... ... 0,0-1080,1731 #7f0c0071 app:id/pass_view}
+                      android.widget.LinearLayout{f37a38a V.E..... ... 0,0-1080,116}
+                        android.support.v7.widget.AppCompatImageView{540ddfb V.ED.... ... 400,0-479,116 #7f0c0072 app:id/imageView6}
+                        android.support.v7.widget.AppCompatTextView{b632e18 V.ED.... ... 492,0-680,63 #7f0c0073 app:id/text_main_achievement}
+                      android.support.v7.widget.AppCompatTextView{fd62071 V.ED.... ... 356,234-724,357 #7f0c0074 app:id/textView5}
+                      android.widget.FrameLayout{4746e56 V.E..... ... 0,462-1080,651}
+                        android.support.v7.widget.AppCompatImageView{bb55ed7 V.ED.... ... 445,0-634,189 #7f0c0075 app:id/imageView7}
+                        android.support.v7.widget.AppCompatTextView{6913c4 V.ED.... ... 525,59-555,130 #7f0c0076 app:id/text_current_stage_pass}
+                      android.support.v7.widget.AppCompatTextView{e5b52ad V.ED.... ... 445,756-634,841 #7f0c0077 app:id/text_current_song_name_pass}
+                      android.widget.LinearLayout{ee119e2 V.E..... ... 0,899-1080,987}
+                        android.support.v7.widget.AppCompatTextView{2871173 V.ED.... ... 380,14-539,85 #7f0c0078 app:id/textView8}
+                        android.support.v7.widget.AppCompatImageView{cc5a830 V.ED.... ... 539,0-624,71 #7f0c0079 app:id/imageView8}
+                        android.support.v7.widget.AppCompatTextView{e876ca9 V.ED.... ... 624,0-659,88 #7f0c007a app:id/textView9}
+                        android.support.v7.widget.AppCompatTextView{67af22e V.ED.... ... 659,8-700,86 #7f0c007b app:id/textView10}
+                      android.support.v7.widget.AppCompatImageButton{5b751cf VFED..C. ... 286,1045-794,1265 #7f0c007c app:id/btn_next}
+                      android.support.v7.widget.AppCompatImageButton{f15175c VFED..C. ... 286,1270-794,1490 #7f0c007d app:id/btn_share}
+        android.view.View{6412a65 V.ED.... ... 0,1794-1080,1920 #1020030 android:id/navigationBarBackground}
